@@ -1,7 +1,7 @@
 
-# Pakman
+# Pakku
 
-**Pakman** is a powerful, easy-to-use **Python Package Manager GUI** built with **PyQt5**.
+**Pakku** is a powerful, easy-to-use **Python Package Manager GUI** built with **PyQt5**.
 It helps you **install**, **search**, **update**, **remove**, and **manage** Python packages visually --- with modern looks, real-time logs, and virtual environment management support.
 
 No more memorizing pip commands! 📦🚀
@@ -23,10 +23,10 @@ No more memorizing pip commands! 📦🚀
 
 ## 🚀 Installation
 
-First, install Pakman using pip:
+First, install Pakku using pip:
 
 ```bash
-pip install pakman
+pip install pakku
 
 ```
 
@@ -40,7 +40,7 @@ pip install pakman
 After installation, simply run:
 
 ```
-pakman
+pakku
 
 ```
 
@@ -62,11 +62,11 @@ The GUI will open!
 
 -   psutil
 
-*(All automatically installed when you install Pakman)*
+*(All automatically installed when you install Pakku)*
 
 * * * * *
 
-🛡️ Why Use Pakman?
+🛡️ Why Use Pakku?
 -------------------
 
 -   Beginner-friendly interface.
@@ -87,10 +87,10 @@ The GUI will open!
 If you want to run directly from source:
 
 ```
-git clone https://https://github.com/AlphaDarkmoon/pakman.git
-cd pakman
+git clone https://github.com/AlphaDarkmoon/pakku.git
+cd Pakku
 pip install -r requirements.txt
-python -m pakman.main
+python -m pakku.main
 
 ```
 
